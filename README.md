@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @fajarpostman
+- 🏛️ I'm currently working at PT Asia Sekuriti Indonesia
 - 👀 I’m interested in PHP and JavaScript
 - 🌱 I’m currently learning JavaScript React Framework
 - 💞️ I’m looking to collaborate on OpenSource Project 
