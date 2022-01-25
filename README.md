@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @fajarpostman
-- 🏛️ I'm currently working at PT Asia Sekuriti Indonesia
-- 🏛️ I'm currently developing the Tripanca Teknologi Indonesia
-- 👀 I’m interested in PHP and JavaScript
+- 🏛️ I'm currently working at PT Square Gate One
+- 👀 I’m interested in PHP, JavaScript and Python
 - 🌱 I’m currently learning JavaScript React Framework
 - 💞️ I’m looking to collaborate on OpenSource Project 
-- 📫 How to reach me fajardwirianto@fajarpostman.com || fajardwirianto3@gmail.com || fajar@tritekindo.com
+- 📫 How to reach me fajardwirianto3@gmail.com
 
 <!---
 fajarpostman/fajarpostman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
