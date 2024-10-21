@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fajarpostman
-- 🏛️ I'm currently working at PT Harapan Fintech Indonesia
 - 👀 I’m interested in PHP, JavaScript and Python
 - 🌱 I’m currently learning JavaScript React Framework
 - 💞️ I’m looking to collaborate on OpenSource Project 
