@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fajarpostman
 - 👀 I’m interested in PHP, JavaScript and Python
-- 🌱 I’m currently learning JavaScript React Framework
+- 🌱 I’m currently learning Go and AI
 - 💞️ I’m looking to collaborate on OpenSource Project 
 - 📫 How to reach me fajardwirianto3@gmail.com
 
