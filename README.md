@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fajarpostman
-- 👀 I’m interested in PHP, JavaScript and Python
+- 👀 I’m interested in Golang, Python, PHP, and JavaScript
 - 🌱 I’m currently learning Go and AI
 - 💞️ I’m looking to collaborate on OpenSource Project 
 - 📫 How to reach me fajardwirianto3@gmail.com
